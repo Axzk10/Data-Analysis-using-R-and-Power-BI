@@ -1,6 +1,7 @@
 # Data-Analysis-using-R-and-Power-BI
 
 This repository presents a comprehensive data analysis of Hollywood's Most Profitable Story dataset, blending the power of R for data cleaning and transformation with dynamic visualization in Power BI.
+![Dashboard Thumbnail]("C:\Users\Aqibk\Downloads\powerBi.png")
 
 # Project Overview
 The analysis follows a structured process:
