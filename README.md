@@ -32,7 +32,7 @@ R: Implemented for robust data cleaning, transformation, and initial exploratory
 Power BI: Leveraged for dynamic and interactive data visualizations and dashboard creation.
 
 # Repository Structure
-R Scripts: Contains scripts for data cleaning, transformation, and initial exploratory analysis. /n
+R Scripts: Contains scripts for data cleaning, transformation, and initial exploratory analysis. 
 Power BI Reports: Holds the Power BI file showcasing the final visualizations and dashboard.
 
 # Visualizations
